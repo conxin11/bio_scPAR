@@ -1,0 +1,12 @@
+tensorflow==2.13.0
+scanpy==1.10.0
+anndata==0.10.6
+python-louvain==0.16
+networkx==3.0
+scipy>=1.9.1
+pandas>=1.5.3
+numpy>=1.24.3
+python-louvain>=0.16
+gseapy>=0.10.8
+jupyter-lab>=4.2.5
+
